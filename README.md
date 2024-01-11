@@ -11,3 +11,6 @@ Venky : add
 
 Shivali : Power
 
+Harshit- Multiply
+
+Priyanka - Divide
