@@ -11,3 +11,11 @@ def multNums(a,b):
 
 multNums(2,3)
 
+
+def divNums(a,b):
+    if b==0:
+        print("Invalid division operation.")
+    else:
+        return(a/b)
+
+divNums(2,3)
