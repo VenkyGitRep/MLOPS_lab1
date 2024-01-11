@@ -7,3 +7,6 @@ Collaborators : Harshit S , Priyanka Gujar, ShivaliKatharia
 
 Features : Add, Multiply, Divide, Power
 
+Harshit- Multiply
+
+Priyanka - Divide
