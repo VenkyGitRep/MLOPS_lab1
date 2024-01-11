@@ -6,6 +6,8 @@ Collaborators : Harshit S , Priyanka Gujar, ShivaliKatharia
 
 
 Features : Add, Multiply, Divide, Power
+
 Venky : add
-Shivali :Power
+
+Shivali : Power
 
