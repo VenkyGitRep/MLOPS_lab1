@@ -4,6 +4,7 @@ def addNums(a,b):
 
 addNums(2,3)
 
+#power function
 def powNums(base, exponent):
         result = 1
         for _ in range(exponent):
